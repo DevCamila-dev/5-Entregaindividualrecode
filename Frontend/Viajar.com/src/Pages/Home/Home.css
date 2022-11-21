@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+  background-color:#ffffff;
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden;
+  margin: 0;
+  color: #40474B;
+
+}
+
+::root {
+  --color1:#40474b;
+  --color2:#030a8c;
+  --white: hsl(0, 0%, 100%);
+  --button-bg-color: hsl(var(--hue-value-1), 57%, 61%);
+}
